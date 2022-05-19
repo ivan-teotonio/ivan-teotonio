@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou em busca de uma nova oportunidade de emprego
-- 🌱 Estou apredendo atualmente PHP, Laravel, HTML, CSS, JavaScript, ReactJs, Docker, MySQL
+- 🌱 Estou apredendo atualmente PHP, Laravel, HTML, CSS, JavaScript,VueJs, Docker, MySQL
 - 📫 Contate-me no email: junioracioli@outlook.com
 
 <div align="center">
