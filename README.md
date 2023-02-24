@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou em busca de uma nova oportunidade de emprego
-- 🌱 Estou apredendo atualmente PHP, Laravel, HTML, CSS, JavaScript,VueJs, Docker, MySQL
+- 🌱 Estou apredendo atualmente PHP, NodeJs, Reactjs Laravel, HTML, CSS, JavaScript,VueJs, Docker, MySQL, Mongodb, Api Rest
 - 📫 Contate-me no email: junioracioli@outlook.com
 
 <div align="center">
@@ -21,6 +21,9 @@
   <img align="center" alt="ivan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
   <img align="center" alt="ivan-docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="ivan-docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="ivan-docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="ivan-docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
   
 ##
@@ -30,6 +33,7 @@
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ivanteotonio256@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/mwlite/in/ivan-teotonio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
 </div>
   
   
