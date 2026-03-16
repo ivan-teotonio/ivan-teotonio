@@ -6,11 +6,8 @@
 - 🌱 Estou apredendo atualmente Typescript, Nodejs, PHP, NodeJs, Reactjs Laravel, HTML, CSS, JavaScript,VueJs, Docker, MySQL, Postgresql, Mongodb, Api Rest
 - 📫 Contate-me no email: <a href="https://www.linkedin.com/mwlite/in/ivan-teotonio" target="_blank">
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
