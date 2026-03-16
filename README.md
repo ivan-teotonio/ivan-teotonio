@@ -3,7 +3,7 @@
 
 
 - 🔭 Aprendendo todos os dias, codando todos os dias, evoluindo sempre.
-- 🌱 Estou apredendo atualmente Typescript, Nodejs, PHP, NodeJs, Reactjs Laravel, HTML, CSS, JavaScript,VueJs, Docker, MySQL, Postgresql, Mongodb, Api Rest
+- 🌱 Desenvolvedor web junior Typescript, Nodejs, PHP, NodeJs, Reactjs Laravel, HTML, CSS, JavaScript,VueJs, Docker, MySQL, Postgresql, Mongodb, Api Rest
 - 📫 Contate-me no email: <a href="https://www.linkedin.com/mwlite/in/ivan-teotonio" target="_blank">
 
 
